@@ -1,7 +1,7 @@
-## Olá, eu sou Kennedy Vitorino
+## Hello, I'm Kennedy Vitorino
 
-  Veja um pouco sobre mim: 
-  
+See a little about me:
+
 - 🤓  passionate about programming
 - 🎓  student of Systems Analysis and Development at UNINASSAU
 - 🖥️  Learning and Evolving in Backend Development
@@ -9,7 +9,7 @@
 ## 
 
 <div style="display: inline_block"><br>
-  Aprendendo: 
+  Learning: 
   <img align="center" alt="Kenny-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kenny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kenny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
