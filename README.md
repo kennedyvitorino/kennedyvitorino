@@ -2,8 +2,8 @@
 
 See a little about me:
 
-- 🤓  passionate about programming
-- 🎓  student of Systems Analysis and Development at UNINASSAU
+- 🤓  Passionate about programming
+- 🎓  Student of Systems Analysis and Development at UNINASSAU
 - 🖥️  Learning and Evolving in Backend Development
 
 ## 
