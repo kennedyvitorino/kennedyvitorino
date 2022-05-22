@@ -2,10 +2,9 @@
 
   Veja um pouco sobre mim: 
   
-- 🤓  Apaixonado por pogramação
-- 🎓  estudante de Análise e Desenvolvimento de Sistemas pela UNINASSAU
-- 🖥️  Aprendendo e evoluindo no back-end Development
-- 🌵  Nordestino
+- 🤓  passionate about programming
+- 🎓  student of Systems Analysis and Development at UNINASSAU
+- 🖥️  Learning and Evolving in Backend Development
 
 ## 
 
